@@ -7,4 +7,4 @@ It features the following tutorials:
 <br>
 - using ...;
 <br>
-- on neural network approaches to network neuroscience: a tutorial on a simple neural network model for functional connectivity-based classification [here](../blob/master/NN_for_FC.ipynb)
+- on neural network approaches to network neuroscience: a tutorial on a simple neural network model for functional connectivity-based classification [here](https://github.com/gelanat/network_neuroscience/blob/master/NN_for_FC.ipynb)
